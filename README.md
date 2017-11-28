@@ -1,3 +1,3 @@
 # cbdesigngroup
 
-This is a test from Coda 2.
+This is another test from Coda 2.
